@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    background-color: #D3D3D3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   #name{
+       font-size: 40px;
+       border: solid black 3px;
+       padding: 5px;
+       display: inline;
+       margin: 0;
+       text-transform: uppercase;
+   }
+   .subtitle{
+       text-transform: capitalize;
+   }
+   .contatos{
+       display: inline;
+   }
