@@ -5,14 +5,14 @@
     text-align: center;
     background-image: linear-gradient(to right, #bfb6f8, #9b8df5);
     font-family: Merriweather, sans-serif;
-   }
+}
 
-a{
+a {
     text-decoration: none;
     color: #191970;
 }
 
-#name{
+#name {
     font-size: 40px;
     border: solid black 3px;
     padding: 5px;
@@ -25,10 +25,10 @@ a{
     font-family: Libre Baskerville, sans-serif;
 }
 
-.subtitle{
+.subtitle {
     text-transform: capitalize;
 }
 
-.contatos{
+.contatos {
     display: inline;
 }
