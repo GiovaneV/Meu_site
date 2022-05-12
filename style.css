@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
 
-*{
+body {
     text-align: center;
     background-image: linear-gradient(to right, #bfb6f8, #9b8df5);
     font-family: Merriweather, sans-serif;
@@ -9,6 +9,11 @@
 
 main {
     background-color: white;
+    border-radius: 1em;
+    box-shadow: 2px 2px 5px#756abdf1;
+    width: 50em;
+    height: 44em;
+    margin: auto;
 }
 
 a {
@@ -18,10 +23,7 @@ a {
 
 #name {
     font-size: 40px;
-    border: solid black 3px;
-    padding: 5px;
     display: inline;
-    margin: 0;
     text-transform: uppercase;
 }
 
@@ -35,4 +37,6 @@ a {
 
 .contatos {
     display: inline;
+    text-align: center;
+    list-style: none;
 }
